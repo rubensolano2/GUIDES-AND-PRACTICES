@@ -3,7 +3,7 @@ This repository contains all the guides and practices carried out by me on Googl
 
 Links to collabs projects:
 - Disease_Detection_Model:
-https://colab.research.google.com/drive/1JTMUomC9S0-zVhhz09Z0Yxhrao-lE24x?usp=sharing
+- https://colab.research.google.com/drive/1JTMUomC9S0-zVhhz09Z0Yxhrao-lE24x?usp=sharing
 
 - A walkThrough LANGUAGE MODELS SEQ2SEQ-TRANSFORMERS-LLAMA:
   https://colab.research.google.com/drive/1hV0_H4wOE-8qKSYXa-ayQ0sipxRzHmTp?usp=sharing
