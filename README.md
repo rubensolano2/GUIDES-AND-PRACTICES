@@ -15,7 +15,7 @@ This repository contains guides and practices conducted by me, hosted on Google 
 
 ## ⚠️ Important Note on Quantum Programming Guide
 
-**Issue:** The visualization in the [Quantum Programming Guide](#[QUANTUM_PROGRAMMING_QISKIT.ipynb](https://github.com/rubensolano2/GUIDES-AND-PRACTICES/blob/main/QUANTUM_PROGRAMMING_QISKIT.ipynb)) does not load correctly.
+**Issue:** The visualization in the [Quantum Programming Guide](#[https://github.com/rubensolano2/GUIDES-AND-PRACTICES/blob/main/QUANTUM_PROGRAMMING_QISKIT.ipynb]) does not load correctly.
 
 **Recommendation:** For the best experience, it is advisable to **download the notebook** and run it on your local machine.
 
