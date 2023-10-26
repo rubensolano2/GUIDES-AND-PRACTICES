@@ -12,6 +12,17 @@ This repository contains guides and practices conducted by me, hosted on Google 
 
 ---
 
+
+## ⚠️ Important Note on Quantum Programming Guide
+
+**Issue:** The visualization in the [Quantum Programming Guide](#quantum-programming-guide) does not load correctly when viewed directly on Google Colab.
+
+**Recommendation:** For the best experience, it is advisable to **download the notebook** and run it on your local machine.
+
+**About the Guide:** This is a compilation of my personal notes on quantum programming. It's meant to be a resource for those interested in diving deeper into the subject.
+
+---
+
 ### Disease Detection Model
 - [🔗 Google Colab Link](https://colab.research.google.com/drive/1JTMUomC9S0-zVhhz09Z0Yxhrao-lE24x?usp=sharing)
 
